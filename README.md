@@ -2,7 +2,7 @@
 - 👀 I’m Working on Full stack Development
 - I know HTML,CSS,JAVASCRIPT,BOOTSTRAP,REACT,NODEJS,EXPRESS,MONGODB,STRAPI
 - 💞️ I’m looking to collaborate on more projects with more people.
-- 📫 How to reach me My Linkdin - https://www.linkedin.com/in/priyathik-raj-624b57255/
+- 📫 How to Reache me, My Linkdin Profile - https://www.linkedin.com/in/priyathik-raj-624b57255/
 - 
 
 <!---
